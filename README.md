@@ -20,3 +20,6 @@ Before running link prediction, unzip the evaluation data under the ``data/link_
 ```
 
 The ``lan`` parameter can take the 9 lanugages in our paper (en, it, fr, de, fi, et, hu, tr, and ja).
+
+
+This project is supported by by the National Science Foundation of United States Grant IIS 2105329.
