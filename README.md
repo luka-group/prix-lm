@@ -33,9 +33,7 @@ This project is supported by by the National Science Foundation of United States
       Collier, Nigel  and
       Chen, Muhao",
     booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
-    month = may,
     year = "2022",
-    address = "Dublin, Ireland",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2022.acl-long.371",
     pages = "5412--5424"
