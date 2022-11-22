@@ -23,3 +23,22 @@ The ``lan`` parameter can take the 9 lanugages in our paper (en, it, fr, de, fi,
 
 
 This project is supported by by the National Science Foundation of United States Grant IIS 2105329.
+
+```
+@inproceedings{zhou-etal-2022-prix,
+    title = "Prix-{LM}: Pretraining for Multilingual Knowledge Base Construction",
+    author = "Zhou, Wenxuan  and
+      Liu, Fangyu  and
+      Vuli{\'c}, Ivan  and
+      Collier, Nigel  and
+      Chen, Muhao",
+    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.acl-long.371",
+    pages = "5412--5424"
+}
+
+```
